@@ -1,0 +1,24 @@
+https://code.visualstudio.com/docs/python/python-tutorial
+
+pip.exe install nltk
+python.exe
+	import nltk
+	nltk.download('stopwords')
+	nltk.download('wordnet')
+
+pip.exe install numpy
+pip.exe install scipy
+pip.exe install --upgrade gensim # Topic Modelling
+pip.exe install pyLDAvis # Visualize models
+pip.exe install IPython 
+pip.exe install spacy
+python.exe -m spacy download en #Language model
+
+pip.exe install matplotlib
+
+
+To Run Flask
+export FLASK_APP='C:\\Users\\ajuneja\\Documents\\Learnings\\AI\\TokenModelling\\Python\\src\\main.py'
+
+
+
