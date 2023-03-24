@@ -19,6 +19,7 @@ pip.exe install matplotlib
 
 To Run Flask
 export FLASK_APP='C:\\Users\\ajuneja\\Documents\\Learnings\\AI\\TokenModelling\\Python\\src\\main.py'
+flask.exe run
 
 
 
